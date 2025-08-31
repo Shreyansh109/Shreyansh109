@@ -11,6 +11,5 @@ I am currently learning C# for Unity, and I have worked on multiple projects of 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shreyansh109&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shreyansh109&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh109&theme=dark&hide_border=false&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh109&langs_count=10&layout=compact&theme=dark&hide_border=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
