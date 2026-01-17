@@ -27,10 +27,6 @@ class Shreyansh
 
 ![GitHub Stats](https://github-readme-stats-six-pi-89.vercel.app/api?username=Shreyansh109&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyansh109&theme=radical&hide_border=false)
-
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats-six-pi-89.vercel.app/api/top-langs/?username=Shreyansh109&layout=compact&theme=radical)
