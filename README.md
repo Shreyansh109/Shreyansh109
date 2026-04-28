@@ -23,13 +23,12 @@ class Shreyansh
 }
 ```
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Shreyansh109&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Shreyansh109&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyansh109&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats-six-pi-89.vercel.app/api?username=Shreyansh109&show_icons=true&theme=radical)
 
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats-six-pi-89.vercel.app/api/top-langs/?username=Shreyansh109&layout=compact&theme=radical)
 
 ## 🛠️ Tech Stack
 
