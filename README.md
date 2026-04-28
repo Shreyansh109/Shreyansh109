@@ -14,7 +14,7 @@ class Shreyansh
     string[] CurrentlyLearning = { "C#", "Unity Game Development" };
     string[] TechStack = { "Python", "HTML", "CSS", "JavaScript", "C#" };
     string[] Tools = { "Git", "GitHub", "Unity" };
-    string Focus = "Web Development & Game Development";
+    string Focus = "Game Development & Web Development";
     
     void DisplayPassion()
     {
