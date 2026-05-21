@@ -54,9 +54,9 @@ class Shreyansh
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shreyansh109&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&v=7)<br/>
-![](https://streak-stats.demolab.com/?user=Shreyansh109&theme=blue_navy&hide_border=false&v=7)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyansh109&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=7)
+![](https://github-readme-stats.shion.dev/api?username=Shreyansh109&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&v=9)<br/>
+![](https://streak-stats.demolab.com/?user=Shreyansh109&theme=blue_navy&hide_border=false&v=9)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyansh109&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=9)
 
 
 
