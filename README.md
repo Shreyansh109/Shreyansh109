@@ -54,9 +54,27 @@ class Shreyansh
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shreyansh109&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&v=10)<br/>
-![](https://streak-stats.demolab.com/?user=Shreyansh109&theme=blue_navy&hide_border=false&v=10)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyansh109&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=10)
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;border-collapse:collapse;">
+<tr>
+<td width="50%" style="border:none;">
+<img src="https://github-readme-stats.shion.dev/api?username=Shreyansh109&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&v=10" width="100%" />
+</td>
+
+<td width="50%" style="border:none;">
+<img src="https://streak-stats.demolab.com/?user=Shreyansh109&theme=blue_navy&hide_border=true&v=10" width="100%" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" style="border:none;">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyansh109&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact&v=10" width="100%" />
+</td>
+
+<td width="50%" align="center" style="border:none;">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/di443oa-6e3881d9-cf19-4614-b5dc-3f5f30e6a716.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMmNiZThhNC1mNTVjLTRiNDAtODViYi1kOGUxNDA1ZTdiODQvZGk0NDNvYS02ZTM4ODFkOS1jZjE5LTQ2MTQtYjVkYy0zZjVmMzBlNmE3MTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._-QP7ggDHP85GPFXcg-S3Ga-kGWPPpjUi69P1XkAuFE" width="100%" />
+</td>
+</tr>
+</table>
 
 
 
