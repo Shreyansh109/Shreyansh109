@@ -57,17 +57,17 @@ class Shreyansh
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;border-collapse:collapse;">
 <tr>
 <td width="50%" style="border:none;">
-<img src="https://github-readme-stats.shion.dev/api?username=Shreyansh109&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&v=10" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api?username=shreyansh109&theme=dark&hide_border=false&include_all_commits=false&count_private=false&v=1" width="100%" />
 </td>
 
 <td width="50%" style="border:none;">
-<img src="https://streak-stats.demolab.com/?user=Shreyansh109&theme=blue_navy&hide_border=true&v=10" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=shreyansh109&theme=dark&hide_border=false&v=1" width="100%" />
 </td>
 </tr>
 
 <tr>
 <td width="50%" style="border:none;">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyansh109&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact&v=10" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shreyansh109&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1" width="100%" />
 </td>
 
 <td width="50%" align="center" style="border:none;">
