@@ -51,6 +51,9 @@ class Shreyansh
   <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />
 </div>
 
 # 📊 GitHub Stats:
