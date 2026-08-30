@@ -26,37 +26,37 @@ class Shreyansh
 ## 🛠️ Tech Stack
 
 <div align="left" style="background-color: pink;">
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="python logo" />
+  <img width="5" />
   
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html logo" />
+  <img width="5" />
   
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="css logo" />
+  <img width="5" />
   
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="javascript logo" />
+  <img width="5" />
   
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="csharp logo" />
+  <img width="5" />
   
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo" />
+  <img width="5" />
   
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo" />
+  <img width="5" />
   
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="48" alt="unity logo" />
+  <img width="5" />
   
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="48" alt="flask logo" />
+  <img width="5" />
   
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img src="https://skillicons.dev/icons?i=blender" height="48" alt="blender logo" />
+  <img width="5" />
+
+  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2FShreyansh109%2FShreyansh109%2F)](https://github.com/Shreyansh109/Shreyansh109/" height="48" alt="numpy logo" />
 </div>
 
 # 📊 GitHub Stats:
