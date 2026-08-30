@@ -44,10 +44,10 @@ class Shreyansh
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo" />
   <img width="5" />
   
-  <img src="https://www.readmecodegen.com/api/social-icon?name=github&background=%238b5cf6&color=%23ffffff&link=https%3A%2F%2Fgithub.com%2FShreyansh109%2F" height="48" alt="github logo" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&background=gradient-purple&color=%23ffffff&link=https%3A%2F%2Fgithub.com%2Fshreyansh109" height="48" alt="github logo" />
   <img width="5" />
   
-  <img src="https://www.readmecodegen.com/api/social-icon?name=unity&bg=%23f59e0b&link=https%3A%2F%2Fgithub.com%2FShreyansh109&color=%23ffffff" height="48" alt="unity logo" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=unity&size=96&background=%23ffffff&color=%23000000&link=https%3A%2F%2Fgithub.com%2Fshreyansh109" height="48" alt="unity logo" />
   <img width="5" />
   
   <img src="https://skillicons.dev/icons?i=flask" height="48" alt="flask logo" />
