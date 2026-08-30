@@ -44,10 +44,10 @@ class Shreyansh
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo" />
   <img width="5" />
   
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=github&background=%238b5cf6&color=%23ffffff&link=https%3A%2F%2Fgithub.com%2FShreyansh109%2F" height="48" alt="github logo" />
   <img width="5" />
   
-  <img src="https://skillicons.dev/icons?i=unity" height="48" alt="unity logo" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=unity&bg=%23f59e0b&link=https%3A%2F%2Fgithub.com%2FShreyansh109&color=%23ffffff" height="48" alt="unity logo" />
   <img width="5" />
   
   <img src="https://skillicons.dev/icons?i=flask" height="48" alt="flask logo" />
@@ -56,7 +56,7 @@ class Shreyansh
   <img src="https://skillicons.dev/icons?i=blender" height="48" alt="blender logo" />
   <img width="5" />
 
-  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2FShreyansh109%2FShreyansh109%2F)](https://github.com/Shreyansh109/Shreyansh109/" height="48" alt="numpy logo" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy&bg=%233b82f6&link=https%3A%2F%2Fgithub.com%2FShreyansh109&color=%23ffffff" height="48" alt="numpy logo" />
 </div>
 
 # 📊 GitHub Stats:
