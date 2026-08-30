@@ -54,6 +54,9 @@ class Shreyansh
   <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
 </div>
 
 # 📊 GitHub Stats:
