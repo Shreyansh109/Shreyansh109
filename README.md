@@ -67,7 +67,7 @@ class Shreyansh
 </td>
 
 <td width="50%" style="border:none;">
-<img src="https://streak-stats.demolab.com/?user=shreyansh109&theme=dark&hide_border=false&v=6" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=shreyansh109&theme=dark&hide_border=false&v=7" width="100%" />
 </td>
 </tr>
 
